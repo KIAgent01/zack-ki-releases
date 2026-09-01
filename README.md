@@ -36,12 +36,15 @@ Checking a quote against a price list used to mean two open PDFs, a browser tab,
 
 | Plan | What you pay | What you get |
 |---|---|---|
-| **Free** | nothing | The full app, 500 credits to start |
-| **Basic** | monthly subscription | More credits every month — same features |
-| **Pro** | monthly subscription | The most credits — same features |
+| **Free** | €0.00 | Quick mode, 100 credits per week + 500 starter credits |
+| **Basic** | €3.49 / month | More monthly credits **plus One-time credits**, Web search, Deep mode |
+| **Pro** | €7.99 / month | The most monthly credits **plus One-time credits**, Web search, Deep mode |
+| **Credit Pack** | €6.99 once | Extra credits when you need more — valid 12 months |
 
-Start free with 500 credits, no payment details needed. Code **ZACK15** gives you **15% off the
-Basic plan (monthly billing) for the first month**. Amounts and details: [zack-ki.com/en](https://zack-ki.com/en).
+One-time credits and Credit Pack credits accumulate: burn a week's volume, and what you saved up
+keeps you going. Start free with 500 credits, no payment details needed. Code **ZACK15** gives
+you **15% off the Basic plan (monthly billing) for the first month** — only 10 redemptions, grab
+yours before they're gone. Details: [zack-ki.com/en](https://zack-ki.com/en).
 
 ## Install
 
