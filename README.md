@@ -1,4 +1,4 @@
-<!-- Zack KI Releases README — Rev. 3 (2026-09-01): Elias' defused text from his approved file (price-list example, no step counting), releases link corrected to zack-ki-releases. DRAFT, nothing pushed. -->
+<!-- Zack KI Releases README — Rev. 4 (2026-09-01): Elias' request — a few added details, pricing table, English only. Additions use only approved product facts (chips, auto-update, UI languages, free/Basic/Pro = credits differ only, ZACK15 approved wording). DRAFT, nothing pushed. -->
 
 # Zack KI
 
@@ -23,6 +23,7 @@ Select text or files in any Windows app, press **Alt+1**, ask. Whatever you sele
 | 🖼️ **Ask about a region** | Drag a box on screen and ask what's in it. |
 | ↩️ **Answer in place** | The reply lands back at your selection instead of in a chat log. |
 | ⚡ **Quick and Deep** | Quick answers immediately, Deep takes its time on the harder questions. |
+| 💡 **Prompt chips** | One tap on your selection: improve, summarise, explain, or fix the error. |
 
 ## Why
 
@@ -33,6 +34,17 @@ Checking a quote against a price list used to mean two open PDFs, a browser tab,
 - Chats are stored **locally on your PC**, not with us.
 - The servers run **in Germany** and **don't keep your requests**.
 
+## Pricing
+
+| Plan | What you pay | What you get |
+|---|---|---|
+| **Free** | nothing | The full app, 500 credits to start |
+| **Basic** | monthly subscription | More credits every month — same features |
+| **Pro** | monthly subscription | The most credits — same features |
+
+Start free with 500 credits, no payment details needed. Code **ZACK15** gives you **15% off the
+Basic plan (monthly billing) for the first month**. Amounts and details: [zack-ki.com/en](https://zack-ki.com/en).
+
 ## Install
 
 1. Download [Zack-KI.exe](https://zack-ki.com/downloads/Zack-KI.exe) and run it.
@@ -40,9 +52,19 @@ Checking a quote against a price list used to mean two open PDFs, a browser tab,
 
 Requires **Windows 10 or 11**. There is no macOS or Linux version.
 
+The app keeps itself up to date — in-app, signed. The interface speaks German and English;
+switch any time in the settings.
+
 ## About this repository
 
 Zack KI is closed source, so there is no code here. This repo holds the release downloads and this page. Pricing, FAQ and privacy details are on [zack-ki.com](https://zack-ki.com/en).
+
+---
+
+## Support
+
+Questions, feedback or found a bug? Write to [hello@zack-ki.com](mailto:hello@zack-ki.com) or
+check the [FAQ](https://zack-ki.com/en).
 
 ---
 
