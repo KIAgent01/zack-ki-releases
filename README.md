@@ -1,5 +1,3 @@
-<!-- Zack KI Releases README — Rev. 4 (2026-09-01): Elias' request — a few added details, pricing table, English only. Additions use only approved product facts (chips, auto-update, UI languages, free/Basic/Pro = credits differ only, ZACK15 approved wording). DRAFT, nothing pushed. -->
-
 # Zack KI
 
 [![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)](https://zack-ki.com/en)
